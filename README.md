@@ -1,2 +1,24 @@
-# C-plus-plus_code
-Here,c++ code are available where you can get basic c++ code which is easy to understand
+# Basic C++ Code
+
+This repository contains basic C++ code snippets for beginners which is very helpful.
+
+## Overview
+
+This repository serves as a reference for beginners learning C++ programming language. It includes simple code examples covering fundamental concepts such as variables, loops, conditionals, functions, basic I/O operations and others
+
+## Getting Started
+
+To run the code snippets in this repository, you'll need a C++ compiler installed on your system. You can use compilers like: Devc++, Turbo c++,etc.
+
+### Prerequisites
+
+- C++ compiler (e.g. devc++, turbo c++)
+- Terminal or command prompt
+
+### Running the Code
+
+1. Clone this repository to your local machine:
+2. Navigate to the cloned directory:
+3. Compile and run the desired C++ file using your preferred compiler.
+
+
